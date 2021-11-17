@@ -1,2 +1,5 @@
 hello world this a test of me trying github
 
+
+I am now editting some onto this file so that I may have a more 
+better and clear understanding!
